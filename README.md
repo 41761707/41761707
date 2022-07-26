@@ -9,10 +9,10 @@ UWAGA: Ukończone repozytoria studenckie reprezentują praktyczną wiedzę pozys
 - Ochnik- Narzędzie dla Ochnika do permutowania zbioru pracowników na odpowiednie stanowiska (**TEORETYCZNIE UKOŃCZONE, ale można kiedyś poprawić szatę graficzną**)
 - Q7 - (**ZAWIESZONO**)
 # Studencie repozytoria:
-- Krytpografia - kurs wybieralny VI semestr (**W TRAKCIE**)
-- PROLOG- kurs wybieralny VI semestr, programowanie w logice (**W TRAKCIE**)
-- Kodowanie- kurs wybieralny VI semestr (**W TRAKCIE**)
-- Systemy wbudowane - kurs obowiązkowy VI semestr (**W TRAKCIE**)
+- Krytpografia - kurs wybieralny VI semestr (**UKOŃCZONO**)
+- PROLOG- kurs wybieralny VI semestr, programowanie w logice (**UKOŃCZONO**)
+- Kodowanie- kurs wybieralny VI semestr (**UKOŃCZONO**)
+- Systemy wbudowane - kurs obowiązkowy VI semestr (**UKOŃCZONO**)
 - jftt (Języki formalne i Techniki Translacji) - Kurs obowiązkowy V semestr (**UKOŃCZONO**)
 - Obliczenia naukowe- Kurs obowiązkowy V semestr (**UKOŃCZONO**)
 - Bezpieczeństwo- Kurs wybieralny V semestr (**UKOŃCZONO**)
@@ -25,7 +25,7 @@ UWAGA: Ukończone repozytoria studenckie reprezentują praktyczną wiedzę pozys
 
 ## EN Version
 WARNING: My student repositories marked as *ENDED* represent gained skills by participating in given course. All of the exercises, that answers are posted in my repositories, belong to Wrocław University of Science and Technology and I do not distribute them in any way (I do not have them anyway).
-#Repos short description:
+## Repos short description:
 # My projects
 - 41761707.github.io - My Portfolio. This website presents necessary information about me and my work. (**ENDED, CONSTANTLY EXPANDING**)
 - FantasyLCK - Private project in popular "fantasy" form based on korean league in League of Legends (League Champions Korea). Project created based on python+Flask, frotend: javascript+Bootstrap, database: sqlite3 (**IN DEVELOPMENT, Implemented minority of expected functionality**)
@@ -33,11 +33,11 @@ WARNING: My student repositories marked as *ENDED* represent gained skills by pa
 - Ochnik - Permutate set of workers for given jobs (**ENDED, some graphical changes will be welcomed**)
 - Q7 - (**SUSPENDED**)
 # Student projects
-*I have no interested in translating all of the courses' names. Way too much work.*
-- Kryptografia - Optional course on VI semester (**IN PROGRESS**)
-- PROLOG- Optional course on VI semester, programming in logic (**IN PROGRESS**)
-- Kodowanie- Optional course on VI semester (**IN PROGRESS**)
-- Systemy wbudowane- Mandatory course on VI semester (**IN PROGRESS**)
+*I have no interest in translating all of the courses' names. Way too much work.*
+- Kryptografia - Optional course on VI semester (**ENDED**)
+- PROLOG- Optional course on VI semester, programming in logic (**ENDED**)
+- Kodowanie- Optional course on VI semester (**ENDED**)
+- Systemy wbudowane- Mandatory course on VI semester (**ENDED**)
 - jftt (Języki formalne i Techniki Translacji) - Mandatory course on V semester (**ENDED**)
 - Obliczenia naukowe- Mandatory course on V semester (**ENDED**)
 - Bezpieczeństwo- Optional course on V semester (**ENDED**)
