@@ -8,7 +8,9 @@ UWAGA: Ukończone repozytoria studenckie reprezentują praktyczną wiedzę pozys
 - TWTool- dodatek ułatwiający grę w Plemiona (**DO ROZPOCZĘCIA**)
 - Ochnik- Narzędzie dla Ochnika do permutowania zbioru pracowników na odpowiednie stanowiska (**TEORETYCZNIE UKOŃCZONE, ale można kiedyś poprawić szatę graficzną**)
 - Q7 - (**ZAWIESZONO**)
+- ExtraBet - sztuczna inteligencja do przewidywania wyników meczów Ekstraklasy (**DO ROZPOCZECIA**)
 # Studencie repozytoria:
+- Programowanie funkcyjne - kurs wybieralny VII semestr (**W TRAKCIE**)
 - Krytpografia - kurs wybieralny VI semestr (**UKOŃCZONO**)
 - PROLOG- kurs wybieralny VI semestr, programowanie w logice (**UKOŃCZONO**)
 - Kodowanie- kurs wybieralny VI semestr (**UKOŃCZONO**)
@@ -22,7 +24,7 @@ UWAGA: Ukończone repozytoria studenckie reprezentują praktyczną wiedzę pozys
 - Puzzle - jedno z zadań w ramach kursu wybieralnego IV semestru Nowoczesne Technologie WWW (**UKOŃCZONO, jak wyżej**)
 - Bazy danych- W współpracy z Pawłem Zalewskim projekt na kurs obowiązkowy III semestru Bazy Danych i Zarządzanie Informacją (MySql+JAVA) (**UKOŃCZONO**)
 - Trylma - Projekt z Pawłem Zalewskim wykonanym w ramach kursu obowiązkowego III semetru Technologia Programowania (Java) (**UKOŃCZONO**)
-
+- Inzynierka - praca inzynierska (**W TRAKCIE
 ## EN Version
 WARNING: My student repositories marked as *ENDED* represent gained skills by participating in given course. All of the exercises, that answers are posted in my repositories, belong to Wrocław University of Science and Technology and I do not distribute them in any way (I do not have them anyway).
 ## Repos short description:
@@ -32,8 +34,11 @@ WARNING: My student repositories marked as *ENDED* represent gained skills by pa
 - TWTool - Tribal Wars Tool (**NOT STARTED**)
 - Ochnik - Permutate set of workers for given jobs (**ENDED, some graphical changes will be welcomed**)
 - Q7 - (**SUSPENDED**)
+- ExtraBet - artificial intelligence to predict outcomes of games played in Polish Ekstraklasa (**TO-DO**) 
 # Student projects
 *I have no interest in translating all of the courses' names. Way too much work.*
+- Inzynierka - diploma thesis ( ** IN PROGRESS **)
+- Programowanie funkcyjne - Optional course on VII semester (**IN PROGRESS**)
 - Kryptografia - Optional course on VI semester (**ENDED**)
 - PROLOG- Optional course on VI semester, programming in logic (**ENDED**)
 - Kodowanie- Optional course on VI semester (**ENDED**)
