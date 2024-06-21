@@ -6,9 +6,10 @@ O ocenianiu: W Polsce oceny na koniec kursu przyznawane są z następującego zb
 ## Opis repozytoriów:
 # Własne projekty
 - 41761707.github.io - moje portfolio, na nim można znaleźć najważniejsze informacje na temat mojej osoby oraz mojej działaności (**CIĄGLE ROZWIJANE**)
-- ExtraBet - rozszerzenie pracy inżynierskiej, sztuczna inteligencja do przewidywania wyników meczów Ekstraklasy (**CIĄGLE ROZWIJANE**)
+- EkstraBet - rozszerzenie pracy inżynierskiej, sztuczna inteligencja do przewidywania wyników meczów Ekstraklasy (**CIĄGLE ROZWIJANE**)
 # Studencie repozytoria:
 - Praca-magisterska - Projekt ExtraBet realizowany w ramach pracy magisterskiej (**UKOŃCZONO**, ocena: *TBD*)
+- Uczenie maszynowe - kurs obowiązkowy III semestr studiów magisterskich (**UKOŃCZONO**, ocena: *4*)
 - Inzynierka - praca inżynierska ( **ENDED**, ocena: *5*)
 - Programowanie funkcyjne - kurs wybieralny VII semestr (**UKOŃCZONO**, ocena: *4*)
 - Krytpografia - kurs wybieralny VI semestr (**UKOŃCZONO**, ocena: *3.5*)
@@ -32,9 +33,10 @@ About grading: In Poland, end-of-course grades are awarded from the following se
 ## Repos short description:
 # My projects
 - 41761707.github.io - My Portfolio. This website presents necessary information about me and my work. (**UNDER DEVELOPMENT**)
-- ExtraBet - artificial intelligence to predict outcomes of games played in Polish Ekstraklasa (**UNDER DEVELOPMENT**) 
+- EkstraBet - artificial intelligence to predict outcomes of games played in Polish Ekstraklasa (**UNDER DEVELOPMENT**) 
 # Student projects
-- Praca-magisterska (ang. Master's Thesis) - carried out as a beginning of ExtraBet project (**ENDED**, grade: *TBD*
+- Praca-magisterska (ang. Master's Thesis) - carried out as a beginning of ExtraBet project (**ENDED**, grade: *TBD*)
+- Machine learning - Mandatory course III semester of graduate studies (**ENDED**, grade: *4*)
 - Inzynierka (ang. BSc Thesis) - diploma thesis ( **ENDED**, grade: *5*)
 - Programowanie funkcyjne (ang. Functional programming)  - Optional course on VII semester (**ENDED**, grade: *4*)
 - Krytpografia (ang. Cryptography) - Optional course on VI semester (**ENDED**, grade: *3.5*)
