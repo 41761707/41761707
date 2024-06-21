@@ -1,56 +1,54 @@
 ### To ja/It's me  👋👋👋
 ## PL version
-UWAGA: Ukończone repozytoria studenckie reprezentują praktyczną wiedzę pozyskaną w ramach zaliczenia odpowiednich kursów. Wszystkie treści zadań, na podstawie których ów programy zostały wykonane należą do Politechniki Wrocławskiej i nie są przeze mnie w żaden sposób udostępniane (już dawno ich nie mam).
+O mnie: Lubię rozwiązywać problemy \
+**UWAGA**: Ukończone repozytoria studenckie reprezentują praktyczną wiedzę pozyskaną w ramach zaliczenia odpowiednich kursów. Wszystkie treści zadań, na podstawie których ów programy zostały wykonane należą do Politechniki Wrocławskiej i nie są przeze mnie w żaden sposób udostępniane (już dawno ich nie mam). \
+O ocenianiu: W Polsce oceny na koniec kursu przyznawane są z następującego zbioru wartości: {2, 3, 3.5, 4, 4.5, 5, 5.5}. Im wyższa liczba tym lepsza ocena przy czym ocena 2 oznacza niezaliczenie kursu. Wartości procentowe wymagana w celu zaliczenia kursu są zależne od wytycznych prowadzącego, niestety dla przedstawionych przykładów nie posiadam już informacji na ten temat.
 ## Opis repozytoriów:
 # Własne projekty
 - 41761707.github.io - moje portfolio, na nim można znaleźć najważniejsze informacje na temat mojej osoby oraz mojej działaności (**CIĄGLE ROZWIJANE**)
-- FantasyLCK - własny projekt stworzenia formatu "fantasy" z wykorzystaniem koreańskiej Ligi w grze League of Legends. Projekt w oparciu o python+Flask, frontend głównie javascript z użyciem Bootstrapa, baza danych sqlite3 (**W TRAKCIE, zaimplementowano zdecydowaną mniejszość funkcjonalności**)
-- TWTool- dodatek ułatwiający grę w Plemiona (**DO ROZPOCZĘCIA**)
-- Ochnik- Narzędzie dla Ochnika do permutowania zbioru pracowników na odpowiednie stanowiska (**TEORETYCZNIE UKOŃCZONE, ale można kiedyś poprawić szatę graficzną**)
-- Q7 - (**ZAWIESZONO**)
-- ExtraBet - sztuczna inteligencja do przewidywania wyników meczów Ekstraklasy (**DO ROZPOCZECIA**)
+- ExtraBet - rozszerzenie pracy inżynierskiej, sztuczna inteligencja do przewidywania wyników meczów Ekstraklasy (**CIĄGLE ROZWIJANE**)
 # Studencie repozytoria:
-- Programowanie funkcyjne - kurs wybieralny VII semestr (**W TRAKCIE**)
-- Krytpografia - kurs wybieralny VI semestr (**UKOŃCZONO**)
-- PROLOG- kurs wybieralny VI semestr, programowanie w logice (**UKOŃCZONO**)
-- Kodowanie- kurs wybieralny VI semestr (**UKOŃCZONO**)
-- Systemy wbudowane - kurs obowiązkowy VI semestr (**UKOŃCZONO**)
-- jftt (Języki formalne i Techniki Translacji) - Kurs obowiązkowy V semestr (**UKOŃCZONO**)
-- Obliczenia naukowe- Kurs obowiązkowy V semestr (**UKOŃCZONO**)
-- Bezpieczeństwo- Kurs wybieralny V semestr (**UKOŃCZONO**)
-- WSI (Wstęp do Sztucznej Inteligencji)- Kurs wybierlany V semestr (**UKOŃCZONO**)
-- ConcurrentProgramming (Programowanie Współbieżne) - Kurs wybierlany IV semestr (**UKOŃCZONO**)
+- Praca-magisterska - Projekt ExtraBet realizowany w ramach pracy magisterskiej (**UKOŃCZONO**, ocena: *TBD*)
+- Inzynierka - praca inżynierska ( **ENDED**, ocena: *5*)
+- Programowanie funkcyjne - kurs wybieralny VII semestr (**UKOŃCZONO**, ocena: *4*)
+- Krytpografia - kurs wybieralny VI semestr (**UKOŃCZONO**, ocena: *3.5*)
+- PROLOG- kurs wybieralny VI semestr, programowanie w logice (**UKOŃCZONO**, ocena: *5*)
+- Kodowanie i Kompresja danych - kurs wybieralny VI semestr (**UKOŃCZONO**, ocena: *4*)
+- Systemy wbudowane - kurs obowiązkowy VI semestr (**UKOŃCZONO**, ocena: *4*)
+- jftt (Języki formalne i Techniki Translacji) - Kurs obowiązkowy V semestr (**UKOŃCZONO**, ocena: *4.5*)
+- Obliczenia naukowe- Kurs obowiązkowy V semestr (**UKOŃCZONO**, ocena: *5*)
+- Bezpieczeństwo- Kurs wybieralny V semestr (**UKOŃCZONO**, ocena: *4.5*)
+- WSI (Wstęp do Sztucznej Inteligencji)- Kurs wybierlany V semestr (**UKOŃCZONO**, ocena: *4.5*)
+- ConcurrentProgramming (Programowanie Współbieżne) - Kurs wybierlany IV semestr (**UKOŃCZONO**, ocena: *4.5*)
 - Drawing - Painto podobny edytor na Kurs Programowania (II Semestr) (**UKOŃCZONO, ale najładniejsze dzieło to nie jest**)
 - Puzzle - jedno z zadań w ramach kursu wybieralnego IV semestru Nowoczesne Technologie WWW (**UKOŃCZONO, jak wyżej**)
-- Bazy danych- W współpracy z Pawłem Zalewskim projekt na kurs obowiązkowy III semestru Bazy Danych i Zarządzanie Informacją (MySql+JAVA) (**UKOŃCZONO**)
+- Bazy danych- W współpracy z Pawłem Zalewskim projekt na kurs obowiązkowy III semestru Bazy Danych i Zarządzanie Informacją (MySql+JAVA) (**UKOŃCZONO**, ocena: *5*)
 - Trylma - Projekt z Pawłem Zalewskim wykonanym w ramach kursu obowiązkowego III semetru Technologia Programowania (Java) (**UKOŃCZONO**)
 - Inzynierka - praca inzynierska (**W TRAKCIE
 ## EN Version
-WARNING: My student repositories marked as *ENDED* represent gained skills by participating in given course. All of the exercises, that answers are posted in my repositories, belong to Wrocław University of Science and Technology and I do not distribute them in any way (I do not have them anyway).
+About me: I enjoy solving problems \
+**ATTENTION**: My student repositories marked as **ENDED** represent gained skills by participating in given course. All of the exercises, that answers are posted in my repositories, belong to Wrocław University of Science and Technology and I do not distribute them in any way (I do not have them anyway). \
+About grading: In Poland, end-of-course grades are awarded from the following set of values: {2, 3, 3.5, 4, 4.5, 5, 5.5}. The higher the number, the better the grade, with a grade of 2 indicating failure of the course. The percentages required to pass the course are dependent on the lecturer's guidelines, unfortunately for the examples shown I no longer have information about percentages.
 ## Repos short description:
 # My projects
-- 41761707.github.io - My Portfolio. This website presents necessary information about me and my work. (**ENDED, CONSTANTLY EXPANDING**)
-- FantasyLCK - Private project in popular "fantasy" form based on korean league in League of Legends (League Champions Korea). Project created based on python+Flask, frotend: javascript+Bootstrap, database: sqlite3 (**IN DEVELOPMENT, Implemented minority of expected functionality**)
-- TWTool - Tribal Wars Tool (**NOT STARTED**)
-- Ochnik - Permutate set of workers for given jobs (**ENDED, some graphical changes will be welcomed**)
-- Q7 - (**SUSPENDED**)
-- ExtraBet - artificial intelligence to predict outcomes of games played in Polish Ekstraklasa (**TO-DO**) 
+- 41761707.github.io - My Portfolio. This website presents necessary information about me and my work. (**UNDER DEVELOPMENT**)
+- ExtraBet - artificial intelligence to predict outcomes of games played in Polish Ekstraklasa (**UNDER DEVELOPMENT**) 
 # Student projects
-*I have no interest in translating all of the courses' names. Way too much work.*
-- Inzynierka - diploma thesis ( ** IN PROGRESS **)
-- Programowanie funkcyjne - Optional course on VII semester (**IN PROGRESS**)
-- Kryptografia - Optional course on VI semester (**ENDED**)
-- PROLOG- Optional course on VI semester, programming in logic (**ENDED**)
-- Kodowanie- Optional course on VI semester (**ENDED**)
-- Systemy wbudowane- Mandatory course on VI semester (**ENDED**)
-- jftt (Języki formalne i Techniki Translacji) - Mandatory course on V semester (**ENDED**)
-- Obliczenia naukowe- Mandatory course on V semester (**ENDED**)
-- Bezpieczeństwo- Optional course on V semester (**ENDED**)
-- WSI (Wstęp do Sztucznej Inteligencji)- Optional course on V semester (**ENDED**)
-- ConcurrentProgramming (Programowanie Współbieżne) - Optional course on V semester (**ENDED**)
+- Praca-magisterska (ang. Master's Thesis) - carried out as a beginning of ExtraBet project (**ENDED**, grade: *TBD*
+- Inzynierka (ang. BSc Thesis) - diploma thesis ( **ENDED**, grade: *5*)
+- Programowanie funkcyjne (ang. Functional programming)  - Optional course on VII semester (**ENDED**, grade: *4*)
+- Krytpografia (ang. Cryptography) - Optional course on VI semester (**ENDED**, grade: *3.5*)
+- PROLOG (ang. Logic programming) - Optional course on VI semester, programming in logic (**ENDED**, grade: *5*)
+- Kodowanie i Kompresja danych (ang. Coding theory and Data Compression) - Optional course on VI semester (**ENDED**, grade: *4*)
+- Systemy wbudowane (ang. Embedded Systems)- Mandatory course on VI semester (**ENDED**, grade: *4*)
+- jftt (Języki formalne i Techniki Translacji) (ang. Formal Languages and Translation Techniques) - Mandatory course on V semester (**ENDED**, grade: *4.5*)
+- Obliczenia naukowe (ang. Scientific Computing)- Mandatory course on V semester (**ENDED**, grade: *5*)
+- Bezpieczeństwo (ang. Computer Security)- Optional course on V semester (**ENDED**, grade: *4.5*)
+- WSI (Wstęp do Sztucznej Inteligencji) (ang. Introduction to Artificial Intelligence)- Optional course on V semester (**ENDED**, grade: *4.5*)
+- ConcurrentProgramming (Programowanie Współbieżne) - Optional course on V semester (**ENDED**, grade: *4.5*)
 - Drawing- Paint-like graphical editor created for course called Kurs Programowania on II semester (**ENDED, but that's not the cutest piece of coding**)
 - Puzzle- One of exercises done for optional course on IV semester called Nowoczesne Technologie WWW (**ENDED**)
-- Bazy danych- In colaboration with Paweł Zalewski projected done for mandatory course on III semester Bazy Danych i Zarządzanie Informacją (MySQL+JAVA) (**ENDED**)
+- Bazy danych (ang. Data Bases and Information Management)- In colaboration with Paweł Zalewski projected done for mandatory course on III semester Bazy Danych i Zarządzanie Informacją (MySQL+JAVA) (**ENDED**, grade: *5*)
 - Trylma- Project in colaboration with Paweł Zalewski made for mandatory course on III semester Technologia Programowania (JAVA) (**ENDED**)
 
 <!--
