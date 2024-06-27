@@ -1,15 +1,22 @@
 ### To ja/It's me  👋👋👋
 ## PL version
-O mnie: Lubię rozwiązywać problemy \
+**O mnie**: Lubię rozwiązywać problemy \
 **UWAGA**: Ukończone repozytoria studenckie reprezentują praktyczną wiedzę pozyskaną w ramach zaliczenia odpowiednich kursów. Wszystkie treści zadań, na podstawie których ów programy zostały wykonane należą do Politechniki Wrocławskiej i nie są przeze mnie w żaden sposób udostępniane (już dawno ich nie mam). \
 O ocenianiu: W Polsce oceny na koniec kursu przyznawane są z następującego zbioru wartości: {2, 3, 3.5, 4, 4.5, 5, 5.5}. Im wyższa liczba tym lepsza ocena przy czym ocena 2 oznacza niezaliczenie kursu. Wartości procentowe wymagana w celu zaliczenia kursu są zależne od wytycznych prowadzącego, niestety dla przedstawionych przykładów nie posiadam już informacji na ten temat.
 ## Opis repozytoriów:
 # Własne projekty
 - 41761707.github.io - moje portfolio, na nim można znaleźć najważniejsze informacje na temat mojej osoby oraz mojej działaności (**CIĄGLE ROZWIJANE**)
 - EkstraBet - rozszerzenie pracy inżynierskiej, sztuczna inteligencja do przewidywania wyników meczów Ekstraklasy (**CIĄGLE ROZWIJANE**)
+- TaskManago - Menedżer zadań podobny do Jiry stworzony, aby pomóc mi w organizowaniu moich projektów i ich rozszerzeń (**CIĄGLE ROZWIJANE**)
 # Studencie repozytoria:
 - Praca-magisterska - Projekt ExtraBet realizowany w ramach pracy magisterskiej (**UKOŃCZONO**, ocena: *TBD*)
 - Uczenie maszynowe - kurs obowiązkowy III semestr studiów magisterskich (**UKOŃCZONO**, ocena: *4*)
+- mpa (Metody probabilistyczne algorytmiki)- kurs obowiązkowy II semestr studiów magisterskich (**UKOŃCZONO**, ocena: *3.5*)
+- data-mining - kurs obowiązkowy II semestr studiów magisterskich (**UKOŃCZONO**, ocena: *4*)
+- Big-Data - kurs obowiązkowy II semestr studiów magisterskich (**UKOŃCZONO**, ocena: *4.5*)
+- Algorytmy-online - kurs obowiązkowy I semestr studiów magisterskich (**UKOŃCZONO**, ocena: *4*)
+- Metody-optymalizacji - kurs obowiązkowy I semestr studiów magisterskich (**UKOŃCZONO**, ocena: *4*)
+- Krypto2 - kurs obowiązkowy I semestr studiów magisterskich, swoista kontynuacja poprzedniej kryptografii (**UKOŃCZONO**, ocena: *3.5*)
 - Inzynierka - praca inżynierska ( **ENDED**, ocena: *5*)
 - Programowanie funkcyjne - kurs wybieralny VII semestr (**UKOŃCZONO**, ocena: *4*)
 - Krytpografia - kurs wybieralny VI semestr (**UKOŃCZONO**, ocena: *3.5*)
@@ -27,16 +34,23 @@ O ocenianiu: W Polsce oceny na koniec kursu przyznawane są z następującego zb
 - Trylma - Projekt z Pawłem Zalewskim wykonanym w ramach kursu obowiązkowego III semetru Technologia Programowania (Java) (**UKOŃCZONO**)
 - Inzynierka - praca inzynierska (**W TRAKCIE
 ## EN Version
-About me: I enjoy solving problems \
+**About me**: I enjoy solving problems \
 **ATTENTION**: My student repositories marked as **ENDED** represent gained skills by participating in given course. All of the exercises, that answers are posted in my repositories, belong to Wrocław University of Science and Technology and I do not distribute them in any way (I do not have them anyway). \
 About grading: In Poland, end-of-course grades are awarded from the following set of values: {2, 3, 3.5, 4, 4.5, 5, 5.5}. The higher the number, the better the grade, with a grade of 2 indicating failure of the course. The percentages required to pass the course are dependent on the lecturer's guidelines, unfortunately for the examples shown I no longer have information about percentages.
 ## Repos short description:
 # My projects
 - 41761707.github.io - My Portfolio. This website presents necessary information about me and my work. (**UNDER DEVELOPMENT**)
-- EkstraBet - artificial intelligence to predict outcomes of games played in Polish Ekstraklasa (**UNDER DEVELOPMENT**) 
+- EkstraBet - artificial intelligence to predict outcomes of games played in Polish Ekstraklasa (**UNDER DEVELOPMENT**)
+- TaskManago - Jira-like task manager created in order to help me organizing my projects and their extensions (**UNDER DEVELOPMENT**)
 # Student projects
 - Praca-magisterska (ang. Master's Thesis) - carried out as a beginning of ExtraBet project (**ENDED**, grade: *TBD*)
-- Machine learning - Mandatory course III semester of graduate studies (**ENDED**, grade: *4*)
+- Machine learning - Mandatory course on III semester of graduate studies (**ENDED**, grade: *4*)
+- mpa (Probabilistic methods used in algorithmics)- Mandatory course on II semester of graduate studies (**ENDED**, grade: *3.5*)
+- data-mining - Mandatory course on II semester of graduate studies (**ENDED**, grade: *4*)
+- Big-Data - Mandatory course on II semester of graduate studies (**ENDED**, grade: *4.5*)
+- Algorytmy-online (Online algorithms)  - Mandatory course on I semester of graduate studies (**ENDED**, grade: *4*)
+- Metody-Optymalizacji (Optimization methods)  - Mandatory course on I semester of graduate studies (**ENDED**, grade: *4*)
+- Krypto2 (Crytpography / Cyber security)  - Mandatory course on I semester of graduate studies, continuation of Kryptografia (**ENDED**, grade: *3.5*)
 - Inzynierka (ang. BSc Thesis) - diploma thesis ( **ENDED**, grade: *5*)
 - Programowanie funkcyjne (ang. Functional programming)  - Optional course on VII semester (**ENDED**, grade: *4*)
 - Krytpografia (ang. Cryptography) - Optional course on VI semester (**ENDED**, grade: *3.5*)
