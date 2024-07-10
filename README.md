@@ -9,7 +9,7 @@ O ocenianiu: W Polsce oceny na koniec kursu przyznawane są z następującego zb
 - EkstraBet - rozszerzenie pracy inżynierskiej, sztuczna inteligencja do przewidywania wyników meczów Ekstraklasy (**CIĄGLE ROZWIJANE**)
 - TaskManago - Menedżer zadań podobny do Jiry stworzony, aby pomóc mi w organizowaniu moich projektów i ich rozszerzeń (**CIĄGLE ROZWIJANE**)
 # Studencie repozytoria:
-- Praca-magisterska - Projekt ExtraBet realizowany w ramach pracy magisterskiej (**UKOŃCZONO**, ocena: *TBD*)
+- Praca-magisterska - Projekt ExtraBet realizowany w ramach pracy magisterskiej (**UKOŃCZONO**, ocena: *4.5*)
 - Uczenie maszynowe - kurs obowiązkowy III semestr studiów magisterskich (**UKOŃCZONO**, ocena: *4*)
 - mpa (Metody probabilistyczne algorytmiki)- kurs obowiązkowy II semestr studiów magisterskich (**UKOŃCZONO**, ocena: *3.5*)
 - data-mining - kurs obowiązkowy II semestr studiów magisterskich (**UKOŃCZONO**, ocena: *4*)
@@ -43,7 +43,7 @@ About grading: In Poland, end-of-course grades are awarded from the following se
 - EkstraBet - artificial intelligence to predict outcomes of games played in Polish Ekstraklasa (**UNDER DEVELOPMENT**)
 - TaskManago - Jira-like task manager created in order to help me organizing my projects and their extensions (**UNDER DEVELOPMENT**)
 # Student projects
-- Praca-magisterska (ang. Master's Thesis) - carried out as a beginning of ExtraBet project (**ENDED**, grade: *TBD*)
+- Praca-magisterska (ang. Master's Thesis) - carried out as a beginning of ExtraBet project (**ENDED**, grade: *4.5*)
 - Machine learning - Mandatory course on III semester of graduate studies (**ENDED**, grade: *4*)
 - mpa (Probabilistic methods used in algorithmics)- Mandatory course on II semester of graduate studies (**ENDED**, grade: *3.5*)
 - data-mining - Mandatory course on II semester of graduate studies (**ENDED**, grade: *4*)
