@@ -1,7 +1,6 @@
 ### To ja/It's me  👋👋👋
 ## PL version
 **O mnie**: Lubię rozwiązywać problemy, grać w gry komputerowe i pisać kod w pythonie / rodzinie C(C++, C#, C) i ostatnio w typescripcie
-**UWAGA**: 
 ## Opis repozytoriów:
 # Własne projekty
 - 41761707.github.io - moje portfolio, na nim można znaleźć najważniejsze informacje na temat mojej osoby oraz mojej działaności (**CIĄGLE ROZWIJANE**)
